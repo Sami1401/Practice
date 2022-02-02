@@ -22,4 +22,17 @@ public class SeleniumTest {
 	{
 		System.out.println("elementsUIbranch");
 	}
+	
+	@Test
+	public void elementsUIbranchUpdated()
+	{
+		System.out.println("elementsUIbranchUpdated");
+	}
+	
+	@Test
+	public void browserAutomationUpdated()
+	{
+		System.out.println("browserAutomationUpdated");
+		System.out.println("browser Newly added");
+	}
 }
