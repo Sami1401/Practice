@@ -16,4 +16,16 @@ public class SeleniumTest {
 	{
 		System.out.println("elementsUI");
 	}
+	
+	@Test
+	public void elementsUIbranch()
+	{
+		System.out.println("elementsUIbranch");
+	}
+	
+	@Test
+	public void elementsUIbranchGitstuffX()
+	{
+		System.out.println("elementsUIbranchGitstuffX");
+	}
 }

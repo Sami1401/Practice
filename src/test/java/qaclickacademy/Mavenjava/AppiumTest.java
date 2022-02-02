@@ -16,4 +16,10 @@ public class AppiumTest {
 		System.out.println("deleteTwitter");
 	}
 
+	
+	@Test
+	public void deleteTwitterBranch()
+	{
+		System.out.println("deleteTwitter branch");
+	}
 }
