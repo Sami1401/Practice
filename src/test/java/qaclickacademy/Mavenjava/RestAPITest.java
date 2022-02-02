@@ -12,6 +12,7 @@ public class RestAPITest {
 		System.out.println("apiAutomation3");
 		System.out.println("apiAutomation4");
 		
+		
 	}
 
 	@Test
