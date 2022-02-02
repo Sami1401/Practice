@@ -12,6 +12,10 @@ public class RestAPITest {
 		System.out.println("apiAutomation3");
 		System.out.println("apiAutomation4");
 		
+		//changes from American Time Zone
+		System.out.println("Hi");
+		System.out.println("Good Morning!!");
+		
 	}
 
 	@Test
